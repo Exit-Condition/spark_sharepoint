@@ -10,7 +10,7 @@ from sharepy import SharePointSession
 
 SPUrl = "7hyxw3.sharepoint.com"
 username = 'admin@7hyxw3.onmicrosoft.com'
-password = 'ZQ7aw5gJZRSgy7m'
+password = '<Password>'
 
 s = sharepy.connect(SPUrl, username, password)
 

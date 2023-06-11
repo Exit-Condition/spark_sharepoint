@@ -110,8 +110,8 @@ class SharepointLoad:
 current_time = date.today() - datetime.timedelta(days=1)
 a = SharepointLoad()
 
-sp_username = 'admin@7hyxw3.onmicrosoft.com'
-sp_password = 'ZQ7aw5gJZRSgy7m'
+sp_username = '<Username>'
+sp_password = '<Password>'
 sp_site = "https://7hyxw3.sharepoint.com/sites/SparkInput/"
 sp_file_name = 'Shared%20Documents/test_sharepoint.csv'
 local_file_name = 'C:\\Users\\parix\\Downloads\\SharePoint\\out_test_sharepoint.csv'
